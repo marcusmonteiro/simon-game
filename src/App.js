@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
+import SimonGame from './simon-game'
 
 class App extends Component {
   render () {
     return (
       <div>
-        Hello, Simon game!
+        <SimonGame />
       </div>
     )
   }
