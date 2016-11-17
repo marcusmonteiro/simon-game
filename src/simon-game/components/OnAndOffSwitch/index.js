@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function OnAndOffSwitch () {
   return (
-    <div />
+    <div>
+      ON/OFF
+    </div>
   )
 }
